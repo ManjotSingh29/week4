@@ -1,0 +1,23 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  background-color: #f4f4f4;
+}
+h2 {
+  color: black;
+  font-weight: bold;
+}
+input,
+button {
+  border: solid #ccc;
+}
+button:hover {
+  background-color: white;
+  color: white;
+  cursor: pointer;
+  font-weight: bold;
+}
+#result {
+  font-size: 18px;
+  font-weight: bold;
+}
