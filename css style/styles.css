@@ -1,7 +1,5 @@
 body {
-  font-family: Arial, sans-serif;
-  margin: 20px;
-  background-color: #f4f4f4;
+  background-color: white;
 }
 h2 {
   color: black;
@@ -9,7 +7,7 @@ h2 {
 }
 input,
 button {
-  border: solid #ccc;
+  border: white;
 }
 button:hover {
   background-color: white;
